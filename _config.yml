@@ -15,7 +15,9 @@ title: Tom Clancy
 # Your name to show in the footer
 author: Tom Clancy
 
-remote_theme: pages-themes/tactile@v0.2.0
+description: "Seasoned technology consultant with over two decades of experience spanning the application development lifecycle. I transform concepts from initial sketches to deployed solutions, specializing in performance optimization, system architecture, and team leadership. What continues to drive me is collaborating with people to build solutions that make meaningful change."
+
+remote_theme: sproogen/modern-resume-theme
 
 plugins:
   - jekyll-remote-theme 
@@ -48,11 +50,17 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+# modern resume vars
+github_username: tclancy
+stackoverflow_username: "7376/tom"
+linkedin_username: tomclancy
+
 
 #####################################
 # --- Footer social media links --- #
 #####################################
 
+# beautiful jekyll vars
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.

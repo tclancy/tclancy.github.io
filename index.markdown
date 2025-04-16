@@ -1,3 +1,8 @@
+---
+layout: page
+title: Testing
+author: Tom Clancy
+---
 # Tom Clancy
 
 Experiment to use GitHub Pages to put a personal presence back on the web.

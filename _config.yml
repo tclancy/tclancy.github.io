@@ -29,7 +29,7 @@ plugins:
 ###############################################
 
 navbar-links:
-  # About Me: "aboutme"
+  About Me: "pages/about"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

@@ -1,11 +1,21 @@
 ---
-layout: archive
-permalink: /archive/
-author_profile: true
+layout: page
 ---
 
-{% include base_path %}
+{% assign years = site.posts
+   | group_by_exp: "post", "post.date | date: '%Y'"
+%}
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
+<h1>Archives</h1>
+
+{% for year in years %}
+  <h2>{{ year.name }}</h2>
+
+  <ul>
+    {% for post in year.items %}
+      <li>
+        <a class='title' href='{{ post.url }}'>{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}

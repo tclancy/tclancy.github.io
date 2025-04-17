@@ -18,7 +18,7 @@ author: Tom Clancy
 description: "Seasoned technology consultant with over two decades of experience spanning the application development lifecycle. I transform concepts from initial sketches to deployed solutions, specializing in performance optimization, system architecture, and team leadership. What continues to drive me is collaborating with people to build solutions that make meaningful change."
 
 remote_theme: daattali/beautiful-jekyll
-# theme: beautiful-jekyll-theme
+theme: beautiful-jekyll-theme
 
 plugins:
   - jekyll-remote-theme 
@@ -31,6 +31,7 @@ plugins:
 
 navbar-links:
   About Me: "pages/about"
+  Archives: "pages/archives"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

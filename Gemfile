@@ -12,6 +12,5 @@ group :jekyll_plugins do
     gem "jekyll-remote-theme", "~> 0.4.1"
     gem "jekyll-paginate", "~> 1.1"
     gem "jekyll-sitemap", "~> 1.4"
-    gem "jekyll-oembed", "~> 0.0.1"
 end
 

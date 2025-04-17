@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting Up Server SSH Access"
-tags: [ssh notes]
+tags: [ssh,notes]
 author: "Tom Clancy"
 ---
 

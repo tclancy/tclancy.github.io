@@ -80,9 +80,9 @@ value: 'createlink', disabled: true }
 		editor._defaultToolbar.buttonType = 'advanced';
 		editor.render();
 </script>
-{% endblock %}
+endblock
 
-{% block bodyclass %}{{ block.super }} yui-skin-sam{% endblock %}
+{% block bodyclass %}{{ block.super }} yui-skin-samendblock
 ```
 
 Like I said, not rocket science. It adds some CSS & JavaScript includes (which are remotely-hosted, so you don't even have to worry about media roots or how it works locally vs. live) and then a bit to add a class to the body tag for the YUI skin.

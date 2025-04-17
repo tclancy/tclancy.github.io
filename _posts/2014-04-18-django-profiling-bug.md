@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Django Profiling Bug"
-tags: [django python profiling]
+tags: [django,python,profiling]
 author: "Tom Clancy"
 ---
 

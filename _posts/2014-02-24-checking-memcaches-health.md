@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Checking on memcache's health"
-tags: [django memcache webfaction]
+tags: [django,memcache,webfaction]
 author: "Tom Clancy"
 ---
 

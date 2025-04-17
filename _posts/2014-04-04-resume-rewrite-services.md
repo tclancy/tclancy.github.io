@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Résumé Rewrite Services"
-tags: [whoops letterswegetletters]
+tags: [whoops,letterswegetletters]
 author: "Tom Clancy"
 ---
 

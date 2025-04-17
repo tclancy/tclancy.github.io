@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thoughts While Lowering a Crib"
-tags: [ikea sweaty]
+tags: [ikea,sweaty]
 author: "Tom Clancy"
 ---
 

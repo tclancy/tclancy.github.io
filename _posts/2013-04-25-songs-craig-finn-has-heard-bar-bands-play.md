@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Songs Craig Finn Has Heard Bar Bands Play"
-tags: [music ]
+tags: [music]
 author: "Tom Clancy"
 ---
 

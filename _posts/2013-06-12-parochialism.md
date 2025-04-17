@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parochialism"
-tags: [sports boston]
+tags: [sports,boston]
 author: "Tom Clancy"
 ---
 

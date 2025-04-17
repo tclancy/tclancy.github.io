@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS: min-width vs. zoom"
-tags: [css responsive]
+tags: [css,responsive]
 author: "Tom Clancy"
 ---
 

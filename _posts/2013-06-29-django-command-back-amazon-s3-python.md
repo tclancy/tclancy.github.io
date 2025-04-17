@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Django Command to Back Up to Amazon S3 with Python"
-tags: [code boto python ]
+tags: [code,boto,python]
 author: "Tom Clancy"
 ---
 

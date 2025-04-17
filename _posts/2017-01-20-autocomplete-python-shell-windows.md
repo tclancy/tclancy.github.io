@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Autocomplete in Python Shell on Windows"
-tags: [python windows frustration]
+tags: [python,windows,frustration]
 author: "Tom Clancy"
 ---
 

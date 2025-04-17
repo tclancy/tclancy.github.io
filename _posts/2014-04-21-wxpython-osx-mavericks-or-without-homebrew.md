@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "wxPython on OSX Mavericks with or without Homebrew"
-tags: [python osx]
+tags: [python,osx]
 author: "Tom Clancy"
 ---
 

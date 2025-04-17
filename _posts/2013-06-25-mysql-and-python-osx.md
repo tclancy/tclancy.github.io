@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MySQL and Python on OSX"
-tags: [mysql python osx]
+tags: [mysql,python,osx]
 author: "Tom Clancy"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greener Development"
-tags: [green environment webdev]
+tags: [green,environment,webdev]
 author: "Tom Clancy"
 ---
 

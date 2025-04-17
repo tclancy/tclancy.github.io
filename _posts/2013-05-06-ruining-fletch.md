@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruining Fletch"
-tags: [movies fletch]
+tags: [movies,fletch]
 author: "Tom Clancy"
 ---
 

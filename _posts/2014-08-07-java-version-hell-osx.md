@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java Version Hell on OSX"
-tags: [java osx bugs]
+tags: [java,osx,bugs]
 author: "Tom Clancy"
 ---
 

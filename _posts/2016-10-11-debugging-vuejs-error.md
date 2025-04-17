@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Debugging a Vue.js Error"
-tags: [django vue.js]
+tags: [django,vue.js]
 author: "Tom Clancy"
 ---
 

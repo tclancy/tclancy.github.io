@@ -279,6 +279,9 @@ exclude:
   # - README.md
   - notes.md
   - bin/*
+  # can't do it but don't want to lose it/ have it break stuff when rebuilding
+  - _posts/2009-04-30-yui-rich-text-editor-in-django-admin.md
+  - .idea/*
 
 
 # Beautiful Jekyll / Dean Attali

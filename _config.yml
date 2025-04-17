@@ -34,7 +34,6 @@ collections:
 ###############################################
 
 navbar-links:
-  About Me: "pages/about"
   Archives: "pages/archives"
   Portfolio: "pages/portfolio"
   # Resources:

@@ -20,4 +20,7 @@ _Internet of Things project for homeowners with heating oil_
 <li>Twilio integration for SMS alerts</li>
 <li>Aggregating our Postgres data into Redis for real-time performance</li>
 <li>Using Pandas and statsmodels for tank usage predictions based on tank data and Wunderground-provided weather information</li>
-</ul>
+</ul><img src="/assets/portfolio/home.png" alt="Homepage " />
+<img src="/assets/portfolio/login.png" alt="Login " />
+<img src="/assets/portfolio/dashboard.png" alt="Dashboard " />
+

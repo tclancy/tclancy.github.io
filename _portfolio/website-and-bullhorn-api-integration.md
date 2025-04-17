@@ -26,4 +26,7 @@ _A new website including integration with Bullhorn, a job search database._
 <li>Added a couple of helper methods to reduce redundancy</li>
 <li>The Web.config key DEVELOPMENT_DEBUGGING expects a boolean; if set to "true", the code will return any XML exception information</li>
 <li>Web.config keys required: BULLHORN_PRIVATE_LABEL_ID, BULLHORN_API_KEY, CACHE_ON, DEVELOPMENT_DEBUGGING</li>
-</ul>
+</ul><img src="/assets/portfolio/new-age-home.jpg" alt="Home " />
+<img src="/assets/portfolio/new-age-job-search.jpg" alt="Job Search Users no longer have to leave the New Age site to get search results from Bullhorn" />
+<img src="/assets/portfolio/new-age-contact.jpg" alt="Contact " />
+

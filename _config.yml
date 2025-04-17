@@ -288,6 +288,7 @@ exclude:
   # can't do it but don't want to lose it/ have it break stuff when rebuilding
   - _posts/2009-04-30-yui-rich-text-editor-in-django-admin.md
   - .idea/*
+  - .idea/sonarlint/issuestore/index.pb
 
 
 # Beautiful Jekyll / Dean Attali

@@ -1,0 +1,21 @@
+---
+layout: page
+---
+
+{% assign years = site.portfolio
+   | group_by_exp: "post", "post.date | date: '%Y'"
+%}
+
+<h1>Archives</h1>
+
+{% for year in years reversed %}
+  <h2>{{ year.name }}</h2>
+
+  <ul>
+    {% for post in year.items %}
+      <li>
+        <a class='title' href='{{ post.url }}'>{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

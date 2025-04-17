@@ -25,6 +25,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+collections:
+  portfolio:
+    output: true
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -32,6 +36,7 @@ plugins:
 navbar-links:
   About Me: "pages/about"
   Archives: "pages/archives"
+  Portfolio: "pages/portfolio"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

@@ -6,6 +6,15 @@ layout: page
    | group_by_exp: "post", "post.date | date: '%Y'"
 %}
 
+{% assign uniq_tags = site.portfolio
+                      | map: 'tags'
+                      | join: ","
+                      | split: ","
+                      | uniq
+                      | sort %}
+
+<!-- <div style="font-size: .8em;">{{ uniq_tags | array_to_sentence_string }}</div> -->
+
 <h1>Archives</h1>
 
 {% for year in years reversed %}

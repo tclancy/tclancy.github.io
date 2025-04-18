@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div>
+<h1>Posts tagged with "{{ page.tag-name }}"</h1>
+
+<p>This is a work-in-progress as I learn Jekyll</p>
+
+<ul>
+{% for post in site.posts %}
+    {% if post.tags contains page.tag-name %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
+    {% endif %}
+{% endfor %}
+</ul>
+</div>

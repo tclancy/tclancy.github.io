@@ -24,6 +24,7 @@ plugins:
   - jekyll-remote-theme 
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
 
 collections:
   portfolio:
@@ -118,6 +119,17 @@ navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
+
+# https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+jekyll-archives:
+  enabled: [tags]
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 ######################################
 # --- Colours / background image --- #

@@ -2,6 +2,7 @@
 layout: post
 title: "Debugging a Vue.js Error"
 tags: [django,vue.js]
+category: blog
 author: "Tom Clancy"
 ---
 

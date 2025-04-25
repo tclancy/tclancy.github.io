@@ -2,6 +2,7 @@
 layout: post
 title: "Try Catch Drop"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

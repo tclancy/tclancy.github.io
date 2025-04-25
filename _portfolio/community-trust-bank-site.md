@@ -2,6 +2,7 @@
 layout: post
 title: "Community Trust Bank: Community Trust Bank Site"
 tags: [django,google,googlemaps,geodata,geolocation]
+category: portfolio
 date: 2010-04-01
 author: "Tom Clancy"
 ---

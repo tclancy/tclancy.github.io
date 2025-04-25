@@ -2,6 +2,7 @@
 layout: post
 title: "On a Friday&#039;s Death"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

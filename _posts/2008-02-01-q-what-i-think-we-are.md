@@ -2,6 +2,7 @@
 layout: post
 title: "Q: What I Think We Are"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

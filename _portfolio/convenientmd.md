@@ -2,6 +2,7 @@
 layout: post
 title: "ConvenientMD: ConvenientMD"
 tags: [django,rwd,microformats,googlemaps,geolocation,authorize.net,payments]
+category: portfolio
 date: 2013-05-21
 author: "Tom Clancy"
 ---

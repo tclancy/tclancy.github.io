@@ -2,6 +2,7 @@
 layout: post
 title: "New GTA IV Preview"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

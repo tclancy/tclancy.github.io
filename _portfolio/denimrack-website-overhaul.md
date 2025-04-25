@@ -2,6 +2,7 @@
 layout: post
 title: "denimrack: Denimrack Website Overhaul"
 tags: [php,xcart,maintenance,ajax,smarty,ecommerce]
+category: portfolio
 date: 2008-11-10
 author: "Tom Clancy"
 ---

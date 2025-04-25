@@ -2,6 +2,7 @@
 layout: post
 title: "Résumé Rewrite Services"
 tags: [whoops,letterswegetletters]
+category: blog
 author: "Tom Clancy"
 ---
 

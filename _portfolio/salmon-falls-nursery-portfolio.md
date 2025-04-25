@@ -2,6 +2,7 @@
 layout: post
 title: "Salmon Falls Nursery: Salmon Falls Nursery Portfolio"
 tags: [ajax,php]
+category: portfolio
 date: 2009-04-02
 author: "Tom Clancy"
 ---

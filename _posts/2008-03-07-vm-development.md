@@ -2,6 +2,7 @@
 layout: post
 title: "VM Development"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

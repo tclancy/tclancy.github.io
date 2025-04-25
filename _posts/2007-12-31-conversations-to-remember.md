@@ -2,6 +2,7 @@
 layout: post
 title: "Conversations to Remember"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

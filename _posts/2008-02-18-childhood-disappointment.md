@@ -2,6 +2,7 @@
 layout: post
 title: "Childhood Disappointment"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

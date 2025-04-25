@@ -2,6 +2,7 @@
 layout: post
 title: "Video on Flickr"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

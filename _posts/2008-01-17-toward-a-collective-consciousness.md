@@ -2,6 +2,7 @@
 layout: post
 title: "Toward a Collective Consciousness"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

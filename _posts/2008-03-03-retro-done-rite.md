@@ -2,6 +2,7 @@
 layout: post
 title: "Retro Done Rite"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

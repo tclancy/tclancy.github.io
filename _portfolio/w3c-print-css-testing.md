@@ -2,6 +2,7 @@
 layout: post
 title: "HP: W3C Print CSS Testing"
 tags: [css,w3c]
+category: portfolio
 date: 2009-01-06
 author: "Tom Clancy"
 ---

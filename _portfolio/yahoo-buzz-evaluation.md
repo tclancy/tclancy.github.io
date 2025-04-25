@@ -2,6 +2,7 @@
 layout: post
 title: "Yahoo!: Yahoo! Buzz Evaluation"
 tags: []
+category: portfolio
 date: 2007-09-18
 author: "Tom Clancy"
 ---

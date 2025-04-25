@@ -2,6 +2,7 @@
 layout: post
 title: "New Mountain Goats Album"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

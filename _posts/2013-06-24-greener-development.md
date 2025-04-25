@@ -2,6 +2,7 @@
 layout: post
 title: "Greener Development"
 tags: [green,environment,webdev]
+category: blog
 author: "Tom Clancy"
 ---
 

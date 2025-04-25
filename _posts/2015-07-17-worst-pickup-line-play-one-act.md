@@ -2,6 +2,7 @@
 layout: post
 title: "Worst Pickup Line: A Play in One Act"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

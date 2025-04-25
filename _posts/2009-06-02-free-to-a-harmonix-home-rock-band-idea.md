@@ -2,6 +2,7 @@
 layout: post
 title: "Free to a Harmonix Home, Rock Band Idea"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

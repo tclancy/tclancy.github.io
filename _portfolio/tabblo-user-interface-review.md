@@ -2,6 +2,7 @@
 layout: post
 title: "HP: Tabblo User Interface Review"
 tags: [uid]
+category: portfolio
 date: 2007-08-18
 author: "Tom Clancy"
 ---

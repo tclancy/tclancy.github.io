@@ -2,6 +2,7 @@
 layout: post
 title: "Fidelity: Broker Information Site"
 tags: [expressionengine,xml,pgp,gpg,encryption,pdf,jquery,php,python]
+category: portfolio
 date: 2010-03-01
 author: "Tom Clancy"
 ---

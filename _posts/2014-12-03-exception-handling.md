@@ -2,6 +2,7 @@
 layout: post
 title: "Exception Handling"
 tags: [coding]
+category: blog
 author: "Tom Clancy"
 ---
 

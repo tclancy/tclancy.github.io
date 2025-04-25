@@ -2,6 +2,7 @@
 layout: post
 title: "Ground Energy: Ground Energy"
 tags: [django,iot,pandas,oauth]
+category: portfolio
 date: 2014-10-21
 author: "Tom Clancy"
 ---

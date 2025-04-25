@@ -2,6 +2,7 @@
 layout: post
 title: "MySQL and Python on OSX"
 tags: [mysql,python,osx]
+category: blog
 author: "Tom Clancy"
 ---
 

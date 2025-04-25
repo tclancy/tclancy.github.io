@@ -2,6 +2,7 @@
 layout: post
 title: "The AV Club"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

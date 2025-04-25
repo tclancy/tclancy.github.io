@@ -2,6 +2,7 @@
 layout: post
 title: "There Are No New Stories"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

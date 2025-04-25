@@ -2,6 +2,7 @@
 layout: post
 title: "Doubly Impressed"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "A Brief History of My Celtics Fandom"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

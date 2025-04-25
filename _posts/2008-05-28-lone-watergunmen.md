@@ -2,6 +2,7 @@
 layout: post
 title: "Lone Watergunmen"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

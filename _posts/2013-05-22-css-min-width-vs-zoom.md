@@ -2,6 +2,7 @@
 layout: post
 title: "CSS: min-width vs. zoom"
 tags: [css,responsive]
+category: blog
 author: "Tom Clancy"
 ---
 

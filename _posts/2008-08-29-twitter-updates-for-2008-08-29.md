@@ -2,6 +2,7 @@
 layout: post
 title: "Twitter Updates for 2008-08-29"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

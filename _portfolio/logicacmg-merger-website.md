@@ -2,6 +2,7 @@
 layout: post
 title: "Logica: LogicaCMG Merger Website"
 tags: [css]
+category: portfolio
 date: 2002-12-31
 author: "Tom Clancy"
 ---

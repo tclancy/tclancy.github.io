@@ -2,6 +2,7 @@
 layout: post
 title: "Top Tips for Patients"
 tags: [nonsense]
+category: blog
 author: "Tom Clancy"
 ---
 

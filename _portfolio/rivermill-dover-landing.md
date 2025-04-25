@@ -2,6 +2,7 @@
 layout: post
 title: "Rivermill at Dover Landing: Rivermill at Dover Landing"
 tags: []
+category: portfolio
 date: 2011-01-01
 author: "Tom Clancy"
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "On Starting a Project"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

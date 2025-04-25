@@ -2,6 +2,7 @@
 layout: post
 title: "Checking on memcache's health"
 tags: [django,memcache,webfaction]
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "8 Simple Rules for Dating My Teenage Daughter"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

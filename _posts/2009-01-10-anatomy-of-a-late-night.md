@@ -2,6 +2,7 @@
 layout: post
 title: "Anatomy of a Late Night"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

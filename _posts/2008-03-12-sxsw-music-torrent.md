@@ -2,6 +2,7 @@
 layout: post
 title: "SXSW Music Torrent"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Usability, Defined"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

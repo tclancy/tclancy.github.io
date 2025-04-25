@@ -2,6 +2,7 @@
 layout: post
 title: "Nexus and the Library"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

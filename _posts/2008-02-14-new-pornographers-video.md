@@ -2,6 +2,7 @@
 layout: post
 title: "New Pornographers Video"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

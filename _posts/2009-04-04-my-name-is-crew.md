@@ -2,6 +2,7 @@
 layout: post
 title: "My Name is Crew"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "No More of That Then"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

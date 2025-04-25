@@ -2,6 +2,7 @@
 layout: post
 title: "How Do I Justify a Tablet as a Business Expense?"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

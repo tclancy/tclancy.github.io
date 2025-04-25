@@ -2,6 +2,7 @@
 layout: post
 title: "PHP Excel Exporter"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Great North Property Management: Great North Website and Secured Areas"
 tags: [django,api,integration]
+category: portfolio
 date: 2010-06-01
 author: "Tom Clancy"
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Nick Cafardo"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

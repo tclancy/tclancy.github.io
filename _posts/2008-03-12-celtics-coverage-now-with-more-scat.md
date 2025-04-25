@@ -2,6 +2,7 @@
 layout: post
 title: "Celtics Coverage: Now with More Scat!"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

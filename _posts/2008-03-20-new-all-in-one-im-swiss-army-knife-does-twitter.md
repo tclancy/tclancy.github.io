@@ -2,6 +2,7 @@
 layout: post
 title: "New All-In-One IM Swiss Army Knife Does Twitter"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

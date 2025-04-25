@@ -2,6 +2,7 @@
 layout: post
 title: "Songs Craig Finn Has Heard Bar Bands Play"
 tags: [music]
+category: blog
 author: "Tom Clancy"
 ---
 

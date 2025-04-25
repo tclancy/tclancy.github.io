@@ -2,6 +2,7 @@
 layout: post
 title: "Dearest Gmail,"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Nothing Says &quot;Quality You Can Rely On&quot;"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

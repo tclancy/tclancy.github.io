@@ -2,6 +2,7 @@
 layout: post
 title: "YUI Rich Text Editor in Django Admin"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

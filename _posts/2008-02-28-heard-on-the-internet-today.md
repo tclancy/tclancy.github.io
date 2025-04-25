@@ -2,6 +2,7 @@
 layout: post
 title: "Heard on the Internet Today"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

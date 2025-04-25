@@ -2,6 +2,7 @@
 layout: post
 title: "Easy as Fishing, You Could be a Mortician"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

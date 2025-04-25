@@ -2,6 +2,7 @@
 layout: post
 title: "Piscataqua Bank: Piscataqua Savings Bank Website"
 tags: [banks,csharp,dotnet,sqlserver]
+category: portfolio
 date: 2008-08-05
 author: "Tom Clancy"
 ---

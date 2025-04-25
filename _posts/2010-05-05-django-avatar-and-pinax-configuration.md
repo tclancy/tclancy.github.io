@@ -2,6 +2,7 @@
 layout: post
 title: "django-avatar and Pinax Configuration"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

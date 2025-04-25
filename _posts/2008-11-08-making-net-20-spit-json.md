@@ -2,6 +2,7 @@
 layout: post
 title: "Making .NET 2.0 Spit JSON"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

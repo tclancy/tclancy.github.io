@@ -2,6 +2,7 @@
 layout: post
 title: "That Was Quick"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

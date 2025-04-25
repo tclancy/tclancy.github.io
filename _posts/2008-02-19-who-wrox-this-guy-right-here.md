@@ -2,6 +2,7 @@
 layout: post
 title: "Who Wrox? This Guy Right Here"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Nothing&#039;s Coming Out!"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

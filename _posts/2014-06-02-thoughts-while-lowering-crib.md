@@ -2,6 +2,7 @@
 layout: post
 title: "Thoughts While Lowering a Crib"
 tags: [ikea,sweaty]
+category: blog
 author: "Tom Clancy"
 ---
 

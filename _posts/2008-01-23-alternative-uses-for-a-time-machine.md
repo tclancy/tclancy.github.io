@@ -2,6 +2,7 @@
 layout: post
 title: "Alternative Uses for a Time Machine"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

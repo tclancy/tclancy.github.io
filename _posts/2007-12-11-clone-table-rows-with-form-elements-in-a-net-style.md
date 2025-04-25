@@ -2,6 +2,7 @@
 layout: post
 title: "Clone Table Rows with Form Elements in a .NET Style"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

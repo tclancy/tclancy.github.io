@@ -2,6 +2,7 @@
 layout: post
 title: "Yankee Fans: Bad at Math"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

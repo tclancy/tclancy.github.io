@@ -2,6 +2,7 @@
 layout: post
 title: "Frontline/ PBS: Frontline: God in America"
 tags: [django,social,pinax,geodata,oauth]
+category: portfolio
 date: 2010-10-01
 author: "Tom Clancy"
 ---

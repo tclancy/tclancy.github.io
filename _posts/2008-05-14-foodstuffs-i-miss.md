@@ -2,6 +2,7 @@
 layout: post
 title: "Foodstuffs I Miss"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

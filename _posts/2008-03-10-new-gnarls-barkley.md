@@ -2,6 +2,7 @@
 layout: post
 title: "New Gnarls Barkley"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

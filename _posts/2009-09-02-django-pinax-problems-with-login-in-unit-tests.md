@@ -2,6 +2,7 @@
 layout: post
 title: "Django/ Pinax: Problems With Login() in Unit Tests"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

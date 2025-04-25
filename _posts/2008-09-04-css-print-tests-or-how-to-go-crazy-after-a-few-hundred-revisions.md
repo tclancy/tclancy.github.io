@@ -2,6 +2,7 @@
 layout: post
 title: "CSS Print Tests or How to Go Crazy after a Few Hundred Revisions"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

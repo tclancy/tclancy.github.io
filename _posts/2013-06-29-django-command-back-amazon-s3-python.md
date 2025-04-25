@@ -2,6 +2,7 @@
 layout: post
 title: "Django Command to Back Up to Amazon S3 with Python"
 tags: [code,boto,python]
+category: blog
 author: "Tom Clancy"
 ---
 

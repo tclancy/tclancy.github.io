@@ -2,6 +2,7 @@
 layout: post
 title: "Getting Ready for the iPhone 2.0"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

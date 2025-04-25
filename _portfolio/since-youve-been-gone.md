@@ -2,6 +2,7 @@
 layout: post
 title: "Those Clever Kids: Since You've Been Gone"
 tags: [backbone,javascript,django,apis,mongodb,rest,tastypie,facebook,mooc,webfaction,newrelic]
+category: portfolio
 date: 2014-03-04
 author: "Tom Clancy"
 ---

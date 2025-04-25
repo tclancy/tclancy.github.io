@@ -2,6 +2,7 @@
 layout: post
 title: "Django, Haystack & Elastic Search"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

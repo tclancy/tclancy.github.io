@@ -2,6 +2,7 @@
 layout: post
 title: "The Garrison City Should Lock From the Outside"
 tags: [dover]
+category: blog
 author: "Tom Clancy"
 ---
 

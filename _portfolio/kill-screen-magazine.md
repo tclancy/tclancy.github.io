@@ -2,6 +2,7 @@
 layout: post
 title: "Kill Screen Magazine: Kill Screen Magazine"
 tags: [django,videogames]
+category: portfolio
 date: 2011-03-01
 author: "Tom Clancy"
 ---

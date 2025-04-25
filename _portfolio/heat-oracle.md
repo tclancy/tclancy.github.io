@@ -2,6 +2,7 @@
 layout: post
 title: "Heat Oracle: Heat Oracle"
 tags: [django,vue.js,redis,django-rest-framework]
+category: portfolio
 date: 2016-10-21
 author: "Tom Clancy"
 ---

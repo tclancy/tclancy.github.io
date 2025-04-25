@@ -2,6 +2,7 @@
 layout: post
 title: "&quot;Life&#039;s Good&quot;, Indeed"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

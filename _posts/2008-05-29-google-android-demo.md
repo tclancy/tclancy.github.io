@@ -2,6 +2,7 @@
 layout: post
 title: "Google Android Demo"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

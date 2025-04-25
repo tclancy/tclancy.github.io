@@ -2,6 +2,7 @@
 layout: post
 title: "Ruining Fletch"
 tags: [movies,fletch]
+category: blog
 author: "Tom Clancy"
 ---
 

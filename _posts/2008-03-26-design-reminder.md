@@ -2,6 +2,7 @@
 layout: post
 title: "Design Reminder"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

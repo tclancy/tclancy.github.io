@@ -2,6 +2,7 @@
 layout: post
 title: "wxPython on OSX Mavericks with or without Homebrew"
 tags: [python,osx]
+category: blog
 author: "Tom Clancy"
 ---
 

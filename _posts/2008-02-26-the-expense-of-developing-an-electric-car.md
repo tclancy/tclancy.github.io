@@ -2,6 +2,7 @@
 layout: post
 title: "The Expense of Developing an Electric Car"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

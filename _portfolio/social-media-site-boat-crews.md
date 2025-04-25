@@ -2,6 +2,7 @@
 layout: post
 title: "Crew Log: Social Media Site for Boat Crews"
 tags: [django,social,pinax,geodata,googlemaps,geolocation]
+category: portfolio
 date: 2010-04-01
 author: "Tom Clancy"
 ---

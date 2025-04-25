@@ -2,6 +2,7 @@
 layout: post
 title: "Django Profiling Bug"
 tags: [django,python,profiling]
+category: blog
 author: "Tom Clancy"
 ---
 

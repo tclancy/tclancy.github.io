@@ -2,6 +2,7 @@
 layout: post
 title: "Humorless"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

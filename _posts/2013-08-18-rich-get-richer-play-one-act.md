@@ -2,6 +2,7 @@
 layout: post
 title: "\"Rich Get Richer\": A Play in One Act"
 tags: [playsinoneact]
+category: blog
 author: "Tom Clancy"
 ---
 

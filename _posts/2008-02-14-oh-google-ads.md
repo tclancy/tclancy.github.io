@@ -2,6 +2,7 @@
 layout: post
 title: "Oh Google Ads"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

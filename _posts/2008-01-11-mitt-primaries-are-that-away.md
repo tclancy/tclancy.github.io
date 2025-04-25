@@ -2,6 +2,7 @@
 layout: post
 title: "Mitt? Primaries Are That-Away"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

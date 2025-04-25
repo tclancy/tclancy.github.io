@@ -2,6 +2,7 @@
 layout: post
 title: "Secret Language of Twins"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

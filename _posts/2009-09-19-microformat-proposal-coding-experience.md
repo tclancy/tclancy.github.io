@@ -2,6 +2,7 @@
 layout: post
 title: "Microformat Proposal: Coding Experience"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

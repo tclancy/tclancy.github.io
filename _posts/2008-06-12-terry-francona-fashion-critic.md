@@ -2,6 +2,7 @@
 layout: post
 title: "Terry Francona: Fashion Critic"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

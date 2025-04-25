@@ -2,6 +2,7 @@
 layout: post
 title: "Setting Up Server SSH Access"
 tags: [ssh,notes]
+category: blog
 author: "Tom Clancy"
 ---
 

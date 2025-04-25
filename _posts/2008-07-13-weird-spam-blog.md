@@ -2,6 +2,7 @@
 layout: post
 title: "Weird Spam Blog"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

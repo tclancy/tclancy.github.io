@@ -2,6 +2,7 @@
 layout: post
 title: "Presented Without Comment"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

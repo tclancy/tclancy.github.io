@@ -2,6 +2,7 @@
 layout: post
 title: "Monty Back, Rommel Still Dead"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

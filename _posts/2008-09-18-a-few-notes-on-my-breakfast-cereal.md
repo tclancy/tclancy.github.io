@@ -2,6 +2,7 @@
 layout: post
 title: "A Few Notes on My Breakfast Cereal"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

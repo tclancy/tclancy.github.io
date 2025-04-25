@@ -2,6 +2,7 @@
 layout: post
 title: "True Love: A Play in One Act"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

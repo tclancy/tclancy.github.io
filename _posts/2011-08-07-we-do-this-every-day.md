@@ -2,6 +2,7 @@
 layout: post
 title: "We Do This Every Day"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

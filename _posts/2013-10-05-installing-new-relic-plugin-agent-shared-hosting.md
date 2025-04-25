@@ -2,6 +2,7 @@
 layout: post
 title: "Installing New Relic Plugin Agent on Shared Hosting"
 tags: [newrelic]
+category: blog
 author: "Tom Clancy"
 ---
 

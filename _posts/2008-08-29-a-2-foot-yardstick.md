@@ -2,6 +2,7 @@
 layout: post
 title: "A 2 Foot Yardstick"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

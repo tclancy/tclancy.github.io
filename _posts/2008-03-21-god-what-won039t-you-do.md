@@ -2,6 +2,7 @@
 layout: post
 title: "God, What Won&#039;t You Do?"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

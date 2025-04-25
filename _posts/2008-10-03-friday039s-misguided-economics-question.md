@@ -2,6 +2,7 @@
 layout: post
 title: "Friday&#039;s Misguided Economics Question"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

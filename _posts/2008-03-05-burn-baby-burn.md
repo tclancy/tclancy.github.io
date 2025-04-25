@@ -2,6 +2,7 @@
 layout: post
 title: "Burn, Baby, Burn"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

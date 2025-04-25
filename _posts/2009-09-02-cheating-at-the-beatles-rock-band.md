@@ -2,6 +2,7 @@
 layout: post
 title: "Cheating at The Beatles: Rock Band"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Getting Started on Rails, Again"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

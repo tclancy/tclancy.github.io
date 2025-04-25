@@ -2,6 +2,7 @@
 layout: post
 title: "Parochialism"
 tags: [sports,boston]
+category: blog
 author: "Tom Clancy"
 ---
 

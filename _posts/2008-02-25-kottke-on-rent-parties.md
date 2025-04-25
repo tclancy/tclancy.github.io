@@ -2,6 +2,7 @@
 layout: post
 title: "Kottke on Rent Parties"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

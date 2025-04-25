@@ -2,6 +2,7 @@
 layout: post
 title: "Holden+ C64 = Love"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

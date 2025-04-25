@@ -2,6 +2,7 @@
 layout: post
 title: "Mancrush: Woz"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

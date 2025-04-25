@@ -2,6 +2,7 @@
 layout: post
 title: "Autocomplete in Python Shell on Windows"
 tags: [python,windows,frustration]
+category: blog
 author: "Tom Clancy"
 ---
 

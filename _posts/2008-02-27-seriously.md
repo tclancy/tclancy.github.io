@@ -2,6 +2,7 @@
 layout: post
 title: "Seriously?"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

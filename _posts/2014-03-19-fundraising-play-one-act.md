@@ -2,6 +2,7 @@
 layout: post
 title: "Fundraising: A Play in One Act"
 tags: [alumni]
+category: blog
 author: "Tom Clancy"
 ---
 

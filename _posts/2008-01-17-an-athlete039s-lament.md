@@ -2,6 +2,7 @@
 layout: post
 title: "An Athlete&#039;s Lament"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

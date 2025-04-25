@@ -2,6 +2,7 @@
 layout: post
 title: "Morning Stress"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

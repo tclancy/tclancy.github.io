@@ -2,6 +2,7 @@
 layout: post
 title: "Dear Josie: On Weasel Words"
 tags: [offtopic,josie]
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "It's My Party (now)"
 tags: [kids]
+category: blog
 author: "Tom Clancy"
 ---
 

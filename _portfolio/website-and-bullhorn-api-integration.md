@@ -2,6 +2,7 @@
 layout: post
 title: "New Age Software Services: Website and Bullhorn API Integration"
 tags: [csharp,.net,api,integration,jquery]
+category: portfolio
 date: 2009-06-01
 author: "Tom Clancy"
 ---

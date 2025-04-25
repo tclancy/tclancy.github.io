@@ -2,6 +2,7 @@
 layout: post
 title: "Words and Phrases that Cause Me to Close a Music Review"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

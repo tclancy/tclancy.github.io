@@ -2,6 +2,7 @@
 layout: post
 title: "Quincy Pond Printworks: Quincy Pond Printworks"
 tags: [ecommerce,miva,shoppingcart]
+category: portfolio
 date: 2009-07-15
 author: "Tom Clancy"
 ---

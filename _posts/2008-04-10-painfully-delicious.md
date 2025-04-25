@@ -2,6 +2,7 @@
 layout: post
 title: "Painfully Delicious"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

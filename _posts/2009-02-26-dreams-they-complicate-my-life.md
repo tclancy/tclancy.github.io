@@ -2,6 +2,7 @@
 layout: post
 title: "Dreams They Complicate My Life"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

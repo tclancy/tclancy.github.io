@@ -2,6 +2,7 @@
 layout: post
 title: "Any Interest in the 700-page Abridged Version?"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "On Optimization"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

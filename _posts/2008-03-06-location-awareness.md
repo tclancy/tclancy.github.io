@@ -2,6 +2,7 @@
 layout: post
 title: "Location Awareness"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

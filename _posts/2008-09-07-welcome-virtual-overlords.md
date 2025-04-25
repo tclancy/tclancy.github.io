@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome, Virtual Overlords"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

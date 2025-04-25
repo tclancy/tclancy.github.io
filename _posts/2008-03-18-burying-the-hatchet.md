@@ -2,6 +2,7 @@
 layout: post
 title: "Burying the Hatchet"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

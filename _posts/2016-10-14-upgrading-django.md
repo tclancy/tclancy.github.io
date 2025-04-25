@@ -2,6 +2,7 @@
 layout: post
 title: "Upgrading Django"
 tags: [django]
+category: blog
 author: "Tom Clancy"
 ---
 

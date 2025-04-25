@@ -2,6 +2,7 @@
 layout: post
 title: "Dave Atell&#039;s iPod"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

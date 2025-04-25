@@ -2,6 +2,7 @@
 layout: post
 title: "Rails 2.0 Released"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Catharsis: To a Young Designer"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Celtics Win + I Am An Idiot"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

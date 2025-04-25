@@ -2,6 +2,7 @@
 layout: post
 title: "Still Waiting"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Expression Engine if Clauses"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

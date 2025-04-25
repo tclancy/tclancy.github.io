@@ -2,6 +2,7 @@
 layout: post
 title: "On Sordidness"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

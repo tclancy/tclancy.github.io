@@ -2,6 +2,7 @@
 layout: post
 title: "MarketConnector: Marketconnector Business Community"
 tags: [php,socialnetwork,socialengine]
+category: portfolio
 date: 2009-04-27
 author: "Tom Clancy"
 ---

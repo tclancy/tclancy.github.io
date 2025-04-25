@@ -2,6 +2,7 @@
 layout: post
 title: "What a Database Can Say About You"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

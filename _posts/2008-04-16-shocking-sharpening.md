@@ -2,6 +2,7 @@
 layout: post
 title: "Shocking, Sharpening"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

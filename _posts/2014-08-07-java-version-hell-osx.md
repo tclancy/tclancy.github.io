@@ -2,6 +2,7 @@
 layout: post
 title: "Java Version Hell on OSX"
 tags: [java,osx,bugs]
+category: blog
 author: "Tom Clancy"
 ---
 

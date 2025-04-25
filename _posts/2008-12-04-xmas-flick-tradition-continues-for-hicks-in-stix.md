@@ -2,6 +2,7 @@
 layout: post
 title: "Xmas Flick Tradition Continues for Hicks in Stix"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 

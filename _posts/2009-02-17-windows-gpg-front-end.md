@@ -2,6 +2,7 @@
 layout: post
 title: "Windows GPG Front-End"
 tags: []
+category: blog
 author: "Tom Clancy"
 ---
 
